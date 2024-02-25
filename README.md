@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=cherryz786&color=ff69b4)
 
 <!--
 **cherryz786/cherryz786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
