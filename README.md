@@ -54,6 +54,5 @@ If you're reading this Zuha, [Aishiteru!](https://cherryz786.com/)✨
 
 <br>
 
-<center>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> 
-</center>
+
+<img src="assets/kyubey.gif" height="40" /> 
