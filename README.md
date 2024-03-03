@@ -1,7 +1,12 @@
 <br>
 <center>
 
+<center>
+
 # Konnichiwa! I'm Cherry
+
+</center>
+
 
 <br>
 
