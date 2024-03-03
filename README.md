@@ -14,13 +14,14 @@ I'm enthusiastic about AI, low-level programming (including Assembly for ARM64 a
 
 
 <div align="center">
+<img src="assets/gojo_small.jpg" align="right" width="175">
 <br><br>
 <pre>
     💼 B.Tech @ MUJ • AI Engineer • Front-end dev
     💻 System programming languages 
     📖 Quantum Computing (Qiskit) 
     🎮 Music • Games • Anime • Code • Art
-    🐾 Muffins 🐰 • Cake & Cookie & Cherries 🐤🐥
+    🐾 Muffins 🐰 • Cake, Cookie & Cherries 🐤🐥
 </pre>
 
 <br>
