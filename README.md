@@ -14,7 +14,7 @@ I'm enthusiastic about AI, low-level programming (including Assembly for ARM64 a
 
 
 <div align="center">
-<img src="assets/gojo_small.jpg" align="right" width="180">
+<img src="assets/gojo_small.jpg" align="right" width="170">
 <br><br>
 <pre>
     💼 B.Tech @ MUJ • AI Engineer • Front-end dev
@@ -24,7 +24,6 @@ I'm enthusiastic about AI, low-level programming (including Assembly for ARM64 a
     🐾 Muffins 🐰 • Cake, Cookie & Cherries 🐤🐥
 </pre>
 
-<br>
 <br>
 <br>
 <br>
