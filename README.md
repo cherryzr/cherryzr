@@ -22,6 +22,11 @@ I'm enthusiastic about AI, low-level programming (including Assembly for ARM64 a
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ##  My Tech Stack:
 <br>
