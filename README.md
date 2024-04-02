@@ -10,7 +10,7 @@
 
 <br>
 
-I'm enthusiastic about AI, low-level programming (including Assembly for ARM64 and 6502), scientific computations, simulations, and quantum computing. Always exploring the fusion of technology, innovation and physics! :D
+I'm enthusiastic about AI, scientific computations, simulations, and quantum computing. Always exploring the fusion of technology, innovation and physics! :D
 
 
 <div align="center">
@@ -18,7 +18,7 @@ I'm enthusiastic about AI, low-level programming (including Assembly for ARM64 a
 <br><br>
 <pre>
     💼 B.Tech @ MUJ • AI Engineer • Front-end dev
-    💻 System programming languages 
+    🎨 Graphic designing 
     📖 Quantum Computing (Qiskit) 
     🎮 Music • Games • Anime • Code • Art
     🐾 Muffins 🐰 • Cake, Cookie & Cherries 🐤🐥
