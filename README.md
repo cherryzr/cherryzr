@@ -45,7 +45,7 @@ I'm enthusiastic about AI, scientific computations, simulations, and quantum com
 <br>
 
 ## GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cherryz786&theme=tokyonight)![](https://github-readme-streak-stats.herokuapp.com/?user=cherryz786&theme=tokyonight&hide_border=false)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cherryz786&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cherryzr&theme=tokyonight)![](https://github-readme-streak-stats.herokuapp.com/?user=cherryzr&theme=tokyonight&hide_border=false)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cherryzr&theme=aura)
 <br/>
 
 <br>
