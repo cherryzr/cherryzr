@@ -1,0 +1,31 @@
+{	"_comment": "Backup of my VSCode settings",
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"tabnine.experimentalAutoImports": true,
+		"security.workspace.trust.untrustedFiles": "open",
+		"code-runner.runInTerminal": true,
+		"editor.guides.indentation": false,
+		"editor.formatOnSave": true,
+		"python.defaultInterpreterPath": "C:\\Users\\avina\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+		"files.exclude": {
+			"**/.git": false
+		},
+		"masmtasm.ASM.emulator": "jsdos",
+		"masmtasm.ASM.assembler": "TASM",
+		"json.schemas": [],
+		"editor.tokenColorCustomizations": {
+			"textMateRules": [
+				{
+					"scope": "source.python",
+					"settings": {
+						"foreground": "#b8c0ff" // This sets the color to purpleish blue
+					}
+				}
+			]
+		}
+	}
+}
