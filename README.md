@@ -56,6 +56,10 @@ If you're reading this Zuha, [Aishiteru!](https://cherryz786.com/)✨
 
 <br>
 
-Commenting this shit out, she disrespected me, in fucking hate that bitch -->
+Commenting this shit out -->
+
+<br>
+"Grind so hard that their biggest flex is they used to know you."
+</br>
 
 <img src="assets/kyubey.gif" height="40" /> 
