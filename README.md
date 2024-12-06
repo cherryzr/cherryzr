@@ -59,7 +59,9 @@ If you're reading this Zuha, [Aishiteru!](https://cherryz786.com/)✨
 Commenting this shit out -->
 
 <br>
+
 "Grind so hard that their biggest flex is they used to know you."
+
 </br>
 
 <img src="assets/kyubey.gif" height="40" /> 
