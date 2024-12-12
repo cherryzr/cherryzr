@@ -48,19 +48,19 @@ I'm enthusiastic about AI, scientific computations, simulations, and quantum com
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cherryzr&theme=tokyonight)![](https://github-readme-streak-stats.herokuapp.com/?user=cherryzr&theme=tokyonight&hide_border=false)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cherryzr&theme=aura)
 <br/>
 
-
+<!--
 <br>
 
 If you're reading this Zuha, [Aishiteru!](https://cherryz786.com/)✨
 
 <br>
+-->
 
-<!--
+
 <br>
 
 "Grind so hard that their biggest flex is they used to know you."
 
 </br>
--->
 
 <img src="assets/kyubey.gif" height="40" /> 
