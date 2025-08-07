@@ -3,23 +3,23 @@
 
 <center>
 
-# Hie, I'm cherry!
+# Hello!
 
 </center>
 
 
 <br>
 
-I'm enthusiastic about AI, scientific computations, simulations, and quantum computing. Always exploring the fusion of technology, innovation and physics! :D
+I'm enthusiastic about AI, scientific computations, simulations, and Quantitative Finance. Always exploring the fusion of technology, innovation and physics! :D
 
 
 <div align="center">
 <img src="assets/gojo_small.jpg" align="right" width="170">
 <br><br>
 <pre>
-    💼 B.Tech @ MUJ • AI Engineer • Front-end dev
+    💼 B.Tech @ MUJ • AI Engineering • Back-end dev
     🎨 Graphic designing 
-    📖 Quantum Computing (Qiskit) 
+    📖 Quantitative Finance 
     🎮 Music • Games • Anime • Code • Art
     🐾 Muffins 🐰 • Cake, Cookie & Cherries 🐤🐥
 </pre>
