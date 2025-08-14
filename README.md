@@ -10,7 +10,7 @@
 
 <br>
 
-I'm enthusiastic about AI, scientific computations, simulations, and Quantitative Finance. Always exploring the fusion of technology, innovation and physics! :D
+I'm enthusiastic about AI, scientific simulations, and Quantitative Finance. Always exploring the fusion of technology, innovation and physics! :D
 
 
 <div align="center">
